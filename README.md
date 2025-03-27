@@ -7,10 +7,6 @@ Modelo de datos:
 
 ![image](https://github.com/user-attachments/assets/b466c500-1552-44c0-bb0a-909c908dda8c)
 
-
-MNodelo de componentes:
-
-
 Conexión con mongo:
 
 ![image](https://github.com/user-attachments/assets/89dbfddd-47cd-414c-9392-06332cdd4678)
@@ -28,4 +24,10 @@ Prueba con postman:
 
 ![image](https://github.com/user-attachments/assets/da96aa40-b020-46ec-aa3e-14ca1aef2c70)
 
+Azure
 
+![image](https://github.com/user-attachments/assets/d1502f6a-e3d2-48e1-846f-64edebebeb82)
+
+![image](https://github.com/user-attachments/assets/646f8e7f-9844-44bd-a0fa-822db2267e61)
+
+![image](https://github.com/user-attachments/assets/dd68f235-a201-4392-8bcf-9bea57c0255a)
