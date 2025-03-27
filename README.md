@@ -22,3 +22,9 @@ Prueba con postman:
 ![image](https://github.com/user-attachments/assets/9bc648f5-9d92-4103-96bd-d7b4175b776c)
 
 
+![image](https://github.com/user-attachments/assets/46b74715-a1aa-40d0-a1e9-7ca262c33cc2)
+
+
+![image](https://github.com/user-attachments/assets/da96aa40-b020-46ec-aa3e-14ca1aef2c70)
+
+
