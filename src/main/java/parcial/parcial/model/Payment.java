@@ -15,7 +15,6 @@ public class Payment {
     private int montoTotal;
     private String estado;
 
-    public Payment() {}
 
     public Payment(String idPago, String idUsuario, String idProduct, String fechaPago, int montoTotal, String estado) {
         this.idPago = idPago;

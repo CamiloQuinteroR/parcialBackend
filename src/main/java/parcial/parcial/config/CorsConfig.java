@@ -13,7 +13,9 @@ public class CorsConfig {
             @Override
             public void addCorsMappings(CorsRegistry registry) {
                 registry.addMapping("/**")
-                        .allowedOrigins("http://localhost:3000")
+                        .allowedOrigins(
+                            "http://localhost:3000",
+                            "http://inventario-brc7gnf8dkhwc7ex.brazilsouth-01.azurewebsites.net")
                         .allowedMethods("GET", "POST", "PUT", "DELETE");
             }
         };
