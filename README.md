@@ -5,6 +5,7 @@ Para crear la estructura del parcial se usó SpringInitializer y se instalaron l
 
 Modelo de datos:
 
+![image](https://github.com/user-attachments/assets/b466c500-1552-44c0-bb0a-909c908dda8c)
 
 
 MNodelo de componentes:
